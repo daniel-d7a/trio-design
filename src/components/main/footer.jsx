@@ -65,7 +65,7 @@ export default function Footer() {
 
   return (
     <>
-      <footer className="text-black mt-20 capitalize">
+      <footer className="text-black mt-20 md:mt-10 capitalize">
         <ul className=" ml-4 sm:flex justify-around items-start">
           {footerData.map(({ header, content }) => {
             return (
