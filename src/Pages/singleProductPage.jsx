@@ -4,9 +4,11 @@ import SingleProduct from "../components/products/singleProduct";
 
 export default function SingleProductPage() {
 
-  return <>
-    <NavBar />
-    <SingleProduct />
-    <Footer/>
-  </>
+  return (
+    <section className="text-white font-test bg-light-green">
+      <NavBar />
+      <SingleProduct />
+      <Footer />
+    </section>
+  );
 }

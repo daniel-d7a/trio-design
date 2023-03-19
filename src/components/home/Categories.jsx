@@ -44,10 +44,10 @@ export default function Categories() {
     <>
       {/* TODO: add on click to category buttons */}
       {/* TODO: check the categories  */}
-      <h2 className="text-black text-center text-4xl my-8">Categories</h2>
-      <div className="text-black flex flex-wrap gap-4 justify-center">
+      <h2 className="text-black text-center font-extrabold text-4xl my-8">Categories</h2>
+      <div className=" flex flex-wrap gap-4 justify-center">
         {categoryData.map(({ text, img, key }) => (
-          <CategoryElement imgBg={img} text={text} key={key} />
+          <CategoryElement imgBg={img} url={text} key={key} />
         ))}
       </div>
     </>

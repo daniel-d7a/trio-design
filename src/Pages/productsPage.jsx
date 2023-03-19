@@ -10,11 +10,11 @@ export default function ProductsPage() {
 
   return (
     <>
-      <section className="text-black bg-white">
+      <section className="text-white font-test bg-light-green">
         <NavBar />
         <Categories />
-        {categoriesData.map(({ name, products }) => (
-          <SingleCategory name={name} products={products} />
+        {categoriesData.map(({ name, products }, i) => (
+          <SingleCategory key={`asdf${i}`} name={name} products={products} />
         ))}
         <Footer />
       </section>

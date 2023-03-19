@@ -37,7 +37,9 @@ export default function Contact() {
   return (
     <>
       <section className="text-black capitalize">
-        <h2 className="text-4xl mt-14 text-center">get in touch</h2>
+        <h2 className="text-4xl mt-14 font-extrabold text-center">
+          get in touch
+        </h2>
         <div className="flex flex-wrap justify-evenly p-4 sm:w-3/4 mx-auto">
           {contactData.map(({ link, img, key }) => (
             <ContactElement link={link} img={img} key={key} />

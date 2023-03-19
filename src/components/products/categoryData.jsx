@@ -6,7 +6,7 @@ const categoriesData = [
         name: "wood sofa",
         img: "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/51jIFfkaDTS._SX355_.jpg",
         details: {
-          name: "wood coffee table",
+          name: "coffee table",
           material: "Mahogany wood",
           color: "cherry coral",
           dimensions: {
@@ -31,10 +31,10 @@ const categoriesData = [
         },
       },
       {
-        name: "wood coffee table",
+        name: "coffee table",
         img: "https://img1.homary.com/filters:format(webp)/mall/file/2022/02/17/5167e7aae0fd45f48217220175d99885.jpg",
         details: {
-          name: "wood coffee table",
+          name: "coffee table",
           material: "Mahogany wood",
           color: "cherry coral",
           dimensions: {
@@ -59,10 +59,10 @@ const categoriesData = [
         },
       },
       {
-        name: "wood coffee table",
+        name: "coffee table",
         img: "https://img1.homary.com/filters:format(webp)/mall/file/2022/02/17/5167e7aae0fd45f48217220175d99885.jpg",
         details: {
-          name: "wood coffee table",
+          name: "coffee table",
           material: "Mahogany wood",
           color: "cherry coral",
           dimensions: {
@@ -90,7 +90,7 @@ const categoriesData = [
         name: "wood sofa",
         img: "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/51jIFfkaDTS._SX355_.jpg",
         details: {
-          name: "wood coffee table",
+          name: "coffee table",
           material: "Mahogany wood",
           color: "cherry coral",
           dimensions: {
@@ -123,7 +123,7 @@ const categoriesData = [
         name: "wood sofa",
         img: "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/51jIFfkaDTS._SX355_.jpg",
         details: {
-          name: "wood coffee table",
+          name: "coffee table",
           material: "Mahogany wood",
           color: "cherry coral",
           dimensions: {
@@ -148,10 +148,10 @@ const categoriesData = [
         },
       },
       {
-        name: "wood coffee table",
+        name: "coffee table",
         img: "https://img1.homary.com/filters:format(webp)/mall/file/2022/02/17/5167e7aae0fd45f48217220175d99885.jpg",
         details: {
-          name: "wood coffee table",
+          name: "coffee table",
           material: "Mahogany wood",
           color: "cherry coral",
           dimensions: {
@@ -176,10 +176,10 @@ const categoriesData = [
         },
       },
       {
-        name: "wood coffee table",
+        name: "coffee table",
         img: "https://img1.homary.com/filters:format(webp)/mall/file/2022/02/17/5167e7aae0fd45f48217220175d99885.jpg",
         details: {
-          name: "wood coffee table",
+          name: "coffee table",
           material: "Mahogany wood",
           color: "cherry coral",
           dimensions: {
@@ -207,7 +207,7 @@ const categoriesData = [
         name: "wood sofa",
         img: "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/51jIFfkaDTS._SX355_.jpg",
         details: {
-          name: "wood coffee table",
+          name: "coffee table",
           material: "Mahogany wood",
           color: "cherry coral",
           dimensions: {
@@ -240,7 +240,7 @@ const categoriesData = [
         name: "wood sofa",
         img: "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/51jIFfkaDTS._SX355_.jpg",
         details: {
-          name: "wood coffee table",
+          name: "coffee table",
           material: "Mahogany wood",
           color: "cherry coral",
           dimensions: {
@@ -265,10 +265,10 @@ const categoriesData = [
         },
       },
       {
-        name: "wood coffee table",
+        name: "coffee table",
         img: "https://img1.homary.com/filters:format(webp)/mall/file/2022/02/17/5167e7aae0fd45f48217220175d99885.jpg",
         details: {
-          name: "wood coffee table",
+          name: "coffee table",
           material: "Mahogany wood",
           color: "cherry coral",
           dimensions: {
@@ -293,10 +293,10 @@ const categoriesData = [
         },
       },
       {
-        name: "wood coffee table",
+        name: "coffee table",
         img: "https://img1.homary.com/filters:format(webp)/mall/file/2022/02/17/5167e7aae0fd45f48217220175d99885.jpg",
         details: {
-          name: "wood coffee table",
+          name: "coffee table",
           material: "Mahogany wood",
           color: "cherry coral",
           dimensions: {
@@ -324,7 +324,7 @@ const categoriesData = [
         name: "wood sofa",
         img: "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/51jIFfkaDTS._SX355_.jpg",
         details: {
-          name: "wood coffee table",
+          name: "coffee table",
           material: "Mahogany wood",
           color: "cherry coral",
           dimensions: {
@@ -357,7 +357,7 @@ const categoriesData = [
         name: "wood sofa",
         img: "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/51jIFfkaDTS._SX355_.jpg",
         details: {
-          name: "wood coffee table",
+          name: "coffee table",
           material: "Mahogany wood",
           color: "cherry coral",
           dimensions: {
@@ -382,10 +382,10 @@ const categoriesData = [
         },
       },
       {
-        name: "wood coffee table",
+        name: "coffee table",
         img: "https://img1.homary.com/filters:format(webp)/mall/file/2022/02/17/5167e7aae0fd45f48217220175d99885.jpg",
         details: {
-          name: "wood coffee table",
+          name: "coffee table",
           material: "Mahogany wood",
           color: "cherry coral",
           dimensions: {
@@ -410,10 +410,10 @@ const categoriesData = [
         },
       },
       {
-        name: "wood coffee table",
+        name: "coffee table",
         img: "https://img1.homary.com/filters:format(webp)/mall/file/2022/02/17/5167e7aae0fd45f48217220175d99885.jpg",
         details: {
-          name: "wood coffee table",
+          name: "coffee table",
           material: "Mahogany wood",
           color: "cherry coral",
           dimensions: {
@@ -441,7 +441,7 @@ const categoriesData = [
         name: "wood sofa",
         img: "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/51jIFfkaDTS._SX355_.jpg",
         details: {
-          name: "wood coffee table",
+          name: "coffee table",
           material: "Mahogany wood",
           color: "cherry coral",
           dimensions: {
@@ -474,7 +474,7 @@ const categoriesData = [
         name: "wood sofa",
         img: "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/51jIFfkaDTS._SX355_.jpg",
         details: {
-          name: "wood coffee table",
+          name: "coffee table",
           material: "Mahogany wood",
           color: "cherry coral",
           dimensions: {
@@ -499,10 +499,10 @@ const categoriesData = [
         },
       },
       {
-        name: "wood coffee table",
+        name: "coffee table",
         img: "https://img1.homary.com/filters:format(webp)/mall/file/2022/02/17/5167e7aae0fd45f48217220175d99885.jpg",
         details: {
-          name: "wood coffee table",
+          name: "coffee table",
           material: "Mahogany wood",
           color: "cherry coral",
           dimensions: {
@@ -527,10 +527,10 @@ const categoriesData = [
         },
       },
       {
-        name: "wood coffee table",
+        name: "coffee table",
         img: "https://img1.homary.com/filters:format(webp)/mall/file/2022/02/17/5167e7aae0fd45f48217220175d99885.jpg",
         details: {
-          name: "wood coffee table",
+          name: "coffee table",
           material: "Mahogany wood",
           color: "cherry coral",
           dimensions: {
@@ -558,7 +558,7 @@ const categoriesData = [
         name: "wood sofa",
         img: "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/51jIFfkaDTS._SX355_.jpg",
         details: {
-          name: "wood coffee table",
+          name: "coffee table",
           material: "Mahogany wood",
           color: "cherry coral",
           dimensions: {
@@ -591,7 +591,7 @@ const categoriesData = [
         name: "wood sofa",
         img: "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/51jIFfkaDTS._SX355_.jpg",
         details: {
-          name: "wood coffee table",
+          name: "coffee table",
           material: "Mahogany wood",
           color: "cherry coral",
           dimensions: {
@@ -616,10 +616,10 @@ const categoriesData = [
         },
       },
       {
-        name: "wood coffee table",
+        name: "coffee table",
         img: "https://img1.homary.com/filters:format(webp)/mall/file/2022/02/17/5167e7aae0fd45f48217220175d99885.jpg",
         details: {
-          name: "wood coffee table",
+          name: "coffee table",
           material: "Mahogany wood",
           color: "cherry coral",
           dimensions: {
@@ -644,10 +644,10 @@ const categoriesData = [
         },
       },
       {
-        name: "wood coffee table",
+        name: "coffee table",
         img: "https://img1.homary.com/filters:format(webp)/mall/file/2022/02/17/5167e7aae0fd45f48217220175d99885.jpg",
         details: {
-          name: "wood coffee table",
+          name: "coffee table",
           material: "Mahogany wood",
           color: "cherry coral",
           dimensions: {
@@ -675,7 +675,7 @@ const categoriesData = [
         name: "wood sofa",
         img: "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/51jIFfkaDTS._SX355_.jpg",
         details: {
-          name: "wood coffee table",
+          name: "coffee table",
           material: "Mahogany wood",
           color: "cherry coral",
           dimensions: {
