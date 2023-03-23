@@ -5,8 +5,8 @@ module.exports = {
     extend: {
       colors: {
         "dark-green": "#4d773b",
-        "light-green": "#aebea5",
-        beige: "#d2b99d",
+        "light-green": "#f0faeb",
+        beige: "#e8d0a2",
       },
       fontFamily: {
         test: "'Comfortaa', sans-serif",

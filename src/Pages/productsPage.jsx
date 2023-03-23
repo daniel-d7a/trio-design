@@ -6,8 +6,6 @@ import SingleCategory from "../components/products/singleCategory";
 import categoriesData from "../components/products/categoryData";
 
 export default function ProductsPage() {
-
-
   return (
     <>
       <section className="text-white font-test bg-light-green">
